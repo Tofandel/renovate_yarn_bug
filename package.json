@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@babel/core": "7.22.7",
+    "@babel/core": "7.22.9",
     "laravel-mix": "6.0.49"
   }
 }
